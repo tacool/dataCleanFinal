@@ -67,7 +67,7 @@ tBodyGyroJerkMean
 
 Tidying and filtering
 
-The final datasets were compiled by running the script: messy2tidy.R
+The final datasets were compiled by running the script: run_analysis.R
 
 The script uses the R libraries "dyplr" and "tidyr"
 
