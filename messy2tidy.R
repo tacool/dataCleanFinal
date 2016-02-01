@@ -1,4 +1,3 @@
-setwd("D:/Dropbox/trabalho/Coursera/Data Science/02 - Data cleaning/Week4");
 
 library(dplyr)
 library(tidyr)
